@@ -17,8 +17,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 <BR>
 ## Program 
 ~~~
-NAME: ADITHYA V
-REGISTER NO: 212223110001
+NAME:Vimala Rani A
+REGISTER NO: 212223040240
 ~~~
 ~~~
 import socket
